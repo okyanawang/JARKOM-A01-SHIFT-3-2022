@@ -37,7 +37,7 @@ Loid bersama Franky berencana membuat peta tersebut dengan kriteria WISE sebagai
 
 ================================================================
 Run : - (Already set on /root/.bashrc)
-================================================================
+/================================================================
 
 > Dalam terminal WISE
 ```
@@ -67,7 +67,7 @@ dan Ostania sebagai DHCP Relay
 
 ================================================================
 Run : - (Already set on /root/.bashrc)
-================================================================
+/================================================================
 
 > Dalam terminal OSTANIA
 ```
@@ -96,7 +96,7 @@ Client yang melalui Switch1 mendapatkan range IP dari [prefix IP].1.50 - [prefix
 Run : 
 [On Westalis]
 bash /root/file-3.sh
-================================================================
+/================================================================
 
 > Dalam terminal Westalis
 ```
@@ -125,7 +125,7 @@ Client yang melalui Switch3 mendapatkan range IP dari [prefix IP].3.10 - [prefix
 Run :
 [On Westalis]
 bash /root/file-4.sh
-================================================================
+/================================================================
 
 > Dalam terminal Westalis
 ```
@@ -151,7 +151,7 @@ Client mendapatkan DNS dari WISE dan client dapat terhubung dengan internet mela
 Run :
 [On Wise]
 bash /root/file-5.sh
-================================================================
+/================================================================
 
 > Dalam terminal WISE
 ```
@@ -180,7 +180,7 @@ Run :
 bash /root/file-6.sh
 [On Ostania]
 bash /root/file-6.sh
-================================================================
+/================================================================
 
 > Konfigurasi sudah dimasukkan pada nomor 3 & 4
 > Testing on SSS
@@ -197,7 +197,7 @@ Loid dan Franky berencana menjadikan Eden sebagai server untuk pertukaran inform
 Run :
 [On Westalis]
 bash /root/file-7.sh
-================================================================
+/================================================================
 
 > Dalam terminal Westalis
 ```
@@ -226,7 +226,7 @@ Run :
 bash /root/file-px-1.sh
 [On SSS] (Testing)
 bash /root/file-px-1.sh
-================================================================
+/================================================================
 
 > Dalam terminal Berlinr
 ```
@@ -271,7 +271,7 @@ Run :
 bash /root/file-px-2.sh
 [On SSS](Testing)
 bash /root/file-px-2.sh
-================================================================
+/================================================================
 
 > Dalam terminal Berlint
 ```
@@ -318,7 +318,7 @@ Run :
 bash /root/file-px-3.sh
 [On SSS](Testing)
 bash /root/file-px-3.sh
-================================================================
+/================================================================
 
 > Dalam terminal Berlint
 ```
@@ -361,7 +361,7 @@ Run :
 bash /root/file-px-4.sh
 [On SSS & Garden](Testing)
 bash /root/file-px-4.sh
-================================================================
+/================================================================
 
 > Dalam terminal Berlint
 ```
@@ -411,7 +411,7 @@ Run :
 bash /root/file-px-5.sh
 [On SSS & Garden](Testing)
 bash /root/file-px-5.sh
-================================================================
+/================================================================
 
 > Dalam terminal Berlint
 ```
