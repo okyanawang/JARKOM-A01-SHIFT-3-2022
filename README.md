@@ -60,7 +60,8 @@ apt-get update
 apt-get install squid -y
 service squid start
 ```
-<img width="481" alt="topology" src="https://user-images.githubusercontent.com/32472207/201685364-547b9dd3-cd6d-499f-b3ba-30fbb0128005.png">
+![image](https://user-images.githubusercontent.com/32472207/206889147-f1ad6dc1-442c-4d57-9090-b5f1bf98e2b8.png)
+
 
 ## Nomer 2
 dan Ostania sebagai DHCP Relay
